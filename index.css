@@ -1,0 +1,18 @@
+h1{
+    color: aqua;
+  text-align: center;
+  
+  /* The element to apply the animation to */
+  
+    width: auto;
+    height: auto;
+    background-color: red;
+    animation-name: example;
+    animation-duration: 4s;
+  
+}
+
+@keyframes example {
+    from {background-color: red;}
+    to {background-color: yellow;}
+  }
