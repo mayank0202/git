@@ -7,5 +7,5 @@
 | integration-see-click-fix  | https://github.com/citibot/integration-see-click-fix | integration-scf.staging.citibot.io | integration-scf.citibot.io |            |
 | integration-gogov  | https://github.com/citibot/integration-gogov | integration-gogov.staging.citibot.io | integration-gogov.citibot.io |            |
 | govqa-integration  | https://github.com/citibot/govqa-integration | integration-govqa.staging.citibot.io | integration-govqa.citibot.io |            |
-| govqa-integration  | https://github.com/citibot/govqa-integration | integration-govqa.staging.citibot.io | integration-govqa.citibot.io |            |
+| integration-granicus  | https://github.com/citibot/integration-granicus | integration-granicus.staging.citibot.io | integration-granicus.citibot.io |            |
 | govqa-integration  | https://github.com/citibot/govqa-integration | integration-govqa.staging.citibot.io | integration-govqa.citibot.io |            |
